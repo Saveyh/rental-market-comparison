@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Pipeline-150458?logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?logo=tableau&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Portfolio%20Ready-2ea44f)
 
 Comparative data analysis project focused on the short-term rental markets of Zurich and Milan. The repository combines a reproducible Python cleaning pipeline with a Tableau dashboard deliverable to turn raw listing exports into an analysis-ready dataset for exploratory, geographic, and pricing comparisons.
 
